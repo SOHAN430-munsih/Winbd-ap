@@ -1,0 +1,6 @@
+flask
+pandas
+scikit-learn
+joblib
+pytesseract
+opencv-python-headless
